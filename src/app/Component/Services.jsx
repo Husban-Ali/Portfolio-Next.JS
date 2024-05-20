@@ -15,7 +15,7 @@ function Services() {
         <br></br>
         <br></br>
         <div className="container flex flex-col justify-center p-4 mx-auto">
-          <div className="grid grid-cols-2 gap-4 lg:grid-cols-4 sm:grid-cols-2">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <div className="relative group">
               <img
                 className="object-cover w-full h-80 dark:bg-gray-500"
