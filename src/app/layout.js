@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio",
   description: "Husban First Next JS project",
+  manifest:"/manifest.json"
 };
 
 export default function RootLayout({ children }) {
